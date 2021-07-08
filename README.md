@@ -1,4 +1,4 @@
-# costycnc-foamcut-grbl-1.1-pwm
+# costycnc-invert-dir-step-foamcut-grbl-1.1-pwm
 
 copied from https://github.com/gnea/grbl
 
